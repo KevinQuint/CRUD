@@ -1,4 +1,3 @@
-//Hecho por Kevin Quintanilla
 <!DOCTYPE html>
 <html>
 <head>
